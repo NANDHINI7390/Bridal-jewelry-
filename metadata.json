@@ -1,0 +1,6 @@
+{
+  "name": "Aurélia Fine Jewellery | Digital Showroom & Bridal Atelier Pondicherry",
+  "description": "Exclusive digital showroom and bespoke bridal jewellery collection in White Town, Pondicherry. Handcrafted 22K gold, polki, diamond, and temple wedding sets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
