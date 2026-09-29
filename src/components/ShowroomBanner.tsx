@@ -20,7 +20,7 @@ export const ShowroomBanner: React.FC<ShowroomBannerProps> = ({
             {/* Background Image */}
             <div className="absolute inset-0 z-0">
               <img
-                src="/src/assets/images/hero_bridal_editorial_1790700636282.jpg"
+                src="/assets/images/hero_bridal_editorial_1790700636282.jpg"
                 alt="Bridal consultation styling session"
                 referrerPolicy="no-referrer"
                 className="w-full h-full object-cover object-right group-hover:scale-105 transition-transform duration-700 ease-out"
@@ -58,7 +58,7 @@ export const ShowroomBanner: React.FC<ShowroomBannerProps> = ({
             {/* Background Image: Pondicherry Heritage Showroom */}
             <div className="absolute inset-0 z-0">
               <img
-                src="/src/assets/images/pondicherry_showroom_facade_1790700720518.jpg"
+                src="/assets/images/pondicherry_showroom_facade_1790700720518.jpg"
                 alt="Aurélia Fine Jewellery Heritage Showroom in White Town Pondicherry"
                 referrerPolicy="no-referrer"
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700 ease-out"

@@ -76,7 +76,7 @@ export const AboutContactView: React.FC<AboutContactViewProps> = ({
           <div className="lg:col-span-6">
             <div className="relative rounded-xl overflow-hidden aspect-[4/3] shadow-xl border border-[#E8DFD3] bg-[#EFE7DE]">
               <img
-                src="/src/assets/images/pondicherry_showroom_facade_1790700720518.jpg"
+                src="/assets/images/pondicherry_showroom_facade_1790700720518.jpg"
                 alt="Aurélia Fine Jewellery White Town Pondicherry Showroom"
                 referrerPolicy="no-referrer"
                 className="w-full h-full object-cover"

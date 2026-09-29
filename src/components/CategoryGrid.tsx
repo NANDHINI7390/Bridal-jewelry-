@@ -17,37 +17,37 @@ interface CategoryItem {
 const CATEGORIES: CategoryItem[] = [
   {
     name: 'Necklaces',
-    image: '/src/assets/images/necklace_royal_polki_1790700650025.jpg',
+    image: '/assets/images/necklace_royal_polki_1790700650025.jpg',
     count: '28 Masterpieces',
     tagline: 'Chokers, Gutapusalu & Temple Haars',
   },
   {
     name: 'Earrings',
-    image: '/src/assets/images/earrings_heritage_jhumka_1790700662174.jpg',
+    image: '/assets/images/earrings_heritage_jhumka_1790700662174.jpg',
     count: '34 Designs',
     tagline: 'Chandbalis, Royal Jhumkas & Drops',
   },
   {
     name: 'Bangles',
-    image: '/src/assets/images/bangles_nakshi_gold_1790700674164.jpg',
+    image: '/assets/images/bangles_nakshi_gold_1790700674164.jpg',
     count: '22 Sets',
     tagline: 'Solid Nakshi Kadas & Filigree Bracelets',
   },
   {
     name: 'Rings',
-    image: '/src/assets/images/ring_solitaire_bloom_1790700685834.jpg',
+    image: '/assets/images/ring_solitaire_bloom_1790700685834.jpg',
     count: '19 Solitaires',
     tagline: 'Cocktail Bands & GIA Solitaires',
   },
   {
     name: 'Bridal Sets',
-    image: '/src/assets/images/bridal_choker_set_1790700732133.jpg',
+    image: '/assets/images/bridal_choker_set_1790700732133.jpg',
     count: '14 Complete Suites',
     tagline: 'Trousseau Sets with Emeralds & Polki',
   },
   {
     name: 'Diamond Collection',
-    image: '/src/assets/images/diamond_necklace_collection_1790700743378.jpg',
+    image: '/assets/images/diamond_necklace_collection_1790700743378.jpg',
     count: '16 High Jewels',
     tagline: 'Rivieres, Tennis Cascades & Platinum',
   },
